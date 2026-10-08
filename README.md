@@ -1,6 +1,6 @@
 # João Victor Gonçalves
 
-Desenvolvedor de software com foco em agentes de IA, automações e integrações com WhatsApp, Telegram e Discord. Construo produtos próprios e quero atuar com agentes de IA aplicados a empresas.
+Desenvolvedor de software com foco em agentes de IA e automações. Construo produtos próprios e quero atuar com agentes de IA aplicados a empresas.
 
 Também sou representante comercial no varejo farmacêutico, e parte dos meus produtos nasceu dessa rotina.
 
@@ -20,7 +20,6 @@ Os produtos com cliente real têm código privado. O que está público aqui pod
 ## Foco técnico
 
 - Agentes de IA aplicados a processos de trabalho
-- Integrações com WhatsApp, Telegram e Discord
 - Automações de rotina e de fluxo de dados
 - Produtos web completos, do banco de dados ao deploy
 
